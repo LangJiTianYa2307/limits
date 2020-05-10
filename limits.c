@@ -1,7 +1,10 @@
 #include<stdio.h>
 #include<limits.h>
 
+<<<<<<< HEAD
 //add some 
+=======
+>>>>>>> 66a85a9697f714bd97eaac8f6038923315fe674e
 enum Color{RED,GREEN,YELLOW};
 
 int main(){
